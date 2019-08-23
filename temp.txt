@@ -1,2 +1,3 @@
-old text
+New text1234
+>>>>>>> testingBeanch
 and another line oh boy
